@@ -1,0 +1,4 @@
+.py-venv/
+.vscode/
+logs/
+saved_models/
