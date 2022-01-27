@@ -1,4 +1,5 @@
-.py-venv/
-.vscode/
-logs/
-saved_models/
+/.py-venv/
+/.vscode/
+/logs/
+/saved_models/
+debug.log
